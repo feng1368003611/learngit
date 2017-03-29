@@ -1,7 +1,6 @@
 
 
-src:=$( wildcard *.c  )
-
+src:=$(wildcard *.c  )
 
 target:=sayhello.exe
 
